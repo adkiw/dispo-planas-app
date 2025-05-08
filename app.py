@@ -1,0 +1,1 @@
+<app.py turinys iš atidaryto failo>
